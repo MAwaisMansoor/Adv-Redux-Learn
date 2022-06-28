@@ -1,0 +1,19 @@
+.notification {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    background-color: rgb(0, 81, 152);
+    font-size: 1rem;
+    font-weight: bold;
+    width: 100%;
+    padding: 0 10%;
+}
+
+.error {
+    background-color: red;
+}
+
+.success {
+    background-color: green;
+}
